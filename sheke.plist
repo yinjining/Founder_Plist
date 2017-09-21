@@ -31,11 +31,11 @@
 				<key>bundle-identifier</key>
 				<string>com.founder.sheke1</string>
 				<key>bundle-version</key>
-				<string>1.2</string>
+				<string>1.0.2</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>中国社会科学</string>
+				<string>FZReaderCenter</string>
 			</dict>
 		</dict>
 	</array>
